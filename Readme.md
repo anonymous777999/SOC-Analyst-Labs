@@ -1,4 +1,4 @@
-# 🔥 Windows Threat Detection Lab
+# SOC Analyst Case Studies — Enterprise Incident Investigations
 
 ## Blue Team Incident Investigation Report
 
@@ -13,7 +13,7 @@
 | Field | Details |
 |-------|---------|
 | **Analyst** | Senior SOC Analyst |
-| **Date** | 2024 |
+| **Date** | 2025 |
 | **Lab Type** | Windows Threat Detection |
 | **Classification** | Training Exercise |
 | **Tools Used** | Splunk SIEM, Sysmon, Windows Security Logs |
